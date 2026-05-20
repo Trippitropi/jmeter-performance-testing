@@ -1,0 +1,51 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1779282143072,724,HTTP Request,200,OK,Thread Group 1-1,text,true,,3042,0,1,1,https://the-internet.herokuapp.com/status_codes/200,722,0,0
+1779282143799,128,HTTP Request,301,Moved Permanently,Thread Group 1-1,text,true,,3057,0,1,1,https://the-internet.herokuapp.com/status_codes/301,128,0,0
+1779282143927,127,HTTP Request,404,Not Found,Thread Group 1-1,text,true,,3049,0,1,1,https://the-internet.herokuapp.com/status_codes/404,127,0,0
+1779282144055,126,HTTP Request,500,Internal Server Error,Thread Group 1-1,text,true,,3069,0,2,2,https://the-internet.herokuapp.com/status_codes/500,126,0,0
+1779282144182,122,HTTP Request,301,Moved Permanently,Thread Group 1-1,text,true,,3065,0,2,2,https://the-internet.herokuapp.com/status_codes/301,122,0,0
+1779282144059,489,HTTP Request,200,OK,Thread Group 1-2,text,true,,3050,0,1,1,https://the-internet.herokuapp.com/status_codes/200,489,0,0
+1779282144551,123,HTTP Request,404,Not Found,Thread Group 1-2,text,true,,3057,0,1,1,https://the-internet.herokuapp.com/status_codes/404,123,0,0
+1779282144676,124,HTTP Request,500,Internal Server Error,Thread Group 1-2,text,true,,3069,0,1,1,https://the-internet.herokuapp.com/status_codes/500,124,0,0
+1779282144800,122,HTTP Request,200,OK,Thread Group 1-2,text,true,,3050,0,1,1,https://the-internet.herokuapp.com/status_codes/200,122,0,0
+1779282144924,122,HTTP Request,301,Moved Permanently,Thread Group 1-2,text,true,,3065,0,1,1,https://the-internet.herokuapp.com/status_codes/301,122,0,0
+1779282145060,127,HTTP Request,404,Not Found,Thread Group 1-3,text,true,,3045,0,1,1,https://the-internet.herokuapp.com/status_codes/404,127,0,0
+1779282145188,124,HTTP Request,500,Internal Server Error,Thread Group 1-3,text,true,,3057,0,1,1,https://the-internet.herokuapp.com/status_codes/500,124,0,0
+1779282145313,121,HTTP Request,200,OK,Thread Group 1-3,text,true,,3038,0,1,1,https://the-internet.herokuapp.com/status_codes/200,121,0,0
+1779282145436,125,HTTP Request,301,Moved Permanently,Thread Group 1-3,text,true,,3053,0,1,1,https://the-internet.herokuapp.com/status_codes/301,125,0,0
+1779282145563,122,HTTP Request,404,Not Found,Thread Group 1-3,text,true,,3045,0,1,1,https://the-internet.herokuapp.com/status_codes/404,122,0,0
+1779282146060,125,HTTP Request,500,Internal Server Error,Thread Group 1-4,text,true,,3065,0,1,1,https://the-internet.herokuapp.com/status_codes/500,125,0,0
+1779282146187,121,HTTP Request,200,OK,Thread Group 1-4,text,true,,3046,0,1,1,https://the-internet.herokuapp.com/status_codes/200,121,0,0
+1779282146310,121,HTTP Request,301,Moved Permanently,Thread Group 1-4,text,true,,3061,0,1,1,https://the-internet.herokuapp.com/status_codes/301,121,0,0
+1779282146433,124,HTTP Request,404,Not Found,Thread Group 1-4,text,true,,3053,0,1,1,https://the-internet.herokuapp.com/status_codes/404,124,0,0
+1779282146559,123,HTTP Request,500,Internal Server Error,Thread Group 1-4,text,true,,3065,0,1,1,https://the-internet.herokuapp.com/status_codes/500,123,0,0
+1779282147062,122,HTTP Request,200,OK,Thread Group 1-5,text,true,,3046,0,1,1,https://the-internet.herokuapp.com/status_codes/200,122,0,0
+1779282147186,122,HTTP Request,301,Moved Permanently,Thread Group 1-5,text,true,,3061,0,1,1,https://the-internet.herokuapp.com/status_codes/301,122,0,0
+1779282147310,122,HTTP Request,404,Not Found,Thread Group 1-5,text,true,,3053,0,1,1,https://the-internet.herokuapp.com/status_codes/404,122,0,0
+1779282147434,121,HTTP Request,500,Internal Server Error,Thread Group 1-5,text,true,,3065,0,1,1,https://the-internet.herokuapp.com/status_codes/500,121,0,0
+1779282147558,120,HTTP Request,200,OK,Thread Group 1-5,text,true,,3046,0,1,1,https://the-internet.herokuapp.com/status_codes/200,120,0,0
+1779282148060,123,HTTP Request,301,Moved Permanently,Thread Group 1-6,text,true,,3053,0,1,1,https://the-internet.herokuapp.com/status_codes/301,123,0,0
+1779282148184,123,HTTP Request,404,Not Found,Thread Group 1-6,text,true,,3045,0,1,1,https://the-internet.herokuapp.com/status_codes/404,123,0,0
+1779282148310,122,HTTP Request,500,Internal Server Error,Thread Group 1-6,text,true,,3057,0,1,1,https://the-internet.herokuapp.com/status_codes/500,122,0,0
+1779282148434,121,HTTP Request,200,OK,Thread Group 1-6,text,true,,3038,0,1,1,https://the-internet.herokuapp.com/status_codes/200,121,0,0
+1779282148557,123,HTTP Request,301,Moved Permanently,Thread Group 1-6,text,true,,3053,0,1,1,https://the-internet.herokuapp.com/status_codes/301,123,0,0
+1779282149059,124,HTTP Request,404,Not Found,Thread Group 1-7,text,true,,3049,0,1,1,https://the-internet.herokuapp.com/status_codes/404,124,0,0
+1779282149186,123,HTTP Request,500,Internal Server Error,Thread Group 1-7,text,true,,3061,0,1,1,https://the-internet.herokuapp.com/status_codes/500,123,0,0
+1779282149311,122,HTTP Request,200,OK,Thread Group 1-7,text,true,,3042,0,1,1,https://the-internet.herokuapp.com/status_codes/200,122,0,0
+1779282149434,122,HTTP Request,301,Moved Permanently,Thread Group 1-7,text,true,,3057,0,1,1,https://the-internet.herokuapp.com/status_codes/301,122,0,0
+1779282149557,123,HTTP Request,404,Not Found,Thread Group 1-7,text,true,,3049,0,1,1,https://the-internet.herokuapp.com/status_codes/404,123,0,0
+1779282150057,125,HTTP Request,500,Internal Server Error,Thread Group 1-8,text,true,,3065,0,1,1,https://the-internet.herokuapp.com/status_codes/500,125,0,0
+1779282150185,121,HTTP Request,200,OK,Thread Group 1-8,text,true,,3046,0,1,1,https://the-internet.herokuapp.com/status_codes/200,121,0,0
+1779282150308,121,HTTP Request,301,Moved Permanently,Thread Group 1-8,text,true,,3061,0,1,1,https://the-internet.herokuapp.com/status_codes/301,121,0,0
+1779282150431,122,HTTP Request,404,Not Found,Thread Group 1-8,text,true,,3053,0,1,1,https://the-internet.herokuapp.com/status_codes/404,122,0,0
+1779282150555,122,HTTP Request,500,Internal Server Error,Thread Group 1-8,text,true,,3065,0,1,1,https://the-internet.herokuapp.com/status_codes/500,122,0,0
+1779282151059,123,HTTP Request,200,OK,Thread Group 1-9,text,true,,3046,0,1,1,https://the-internet.herokuapp.com/status_codes/200,123,0,0
+1779282151184,121,HTTP Request,301,Moved Permanently,Thread Group 1-9,text,true,,3061,0,1,1,https://the-internet.herokuapp.com/status_codes/301,121,0,0
+1779282151307,123,HTTP Request,404,Not Found,Thread Group 1-9,text,true,,3053,0,1,1,https://the-internet.herokuapp.com/status_codes/404,123,0,0
+1779282151432,122,HTTP Request,500,Internal Server Error,Thread Group 1-9,text,true,,3065,0,1,1,https://the-internet.herokuapp.com/status_codes/500,122,0,0
+1779282151557,121,HTTP Request,200,OK,Thread Group 1-9,text,true,,3046,0,1,1,https://the-internet.herokuapp.com/status_codes/200,121,0,0
+1779282152057,125,HTTP Request,301,Moved Permanently,Thread Group 1-10,text,true,,3065,0,1,1,https://the-internet.herokuapp.com/status_codes/301,125,0,0
+1779282152183,122,HTTP Request,404,Not Found,Thread Group 1-10,text,true,,3057,0,1,1,https://the-internet.herokuapp.com/status_codes/404,122,0,0
+1779282152307,119,HTTP Request,500,Internal Server Error,Thread Group 1-10,text,true,,3069,0,1,1,https://the-internet.herokuapp.com/status_codes/500,119,0,0
+1779282152427,122,HTTP Request,200,OK,Thread Group 1-10,text,true,,3050,0,1,1,https://the-internet.herokuapp.com/status_codes/200,122,0,0
+1779282152551,121,HTTP Request,301,Moved Permanently,Thread Group 1-10,text,true,,3065,0,1,1,https://the-internet.herokuapp.com/status_codes/301,121,0,0
